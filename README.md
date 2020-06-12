@@ -1,4 +1,4 @@
-# Indian-Import-Export-Data-Analysis
+# Indian-Trade-Data-Analysis-and-Forecasting
 * Trade is an economic concept which involves Buying and Selling of the commodities, or exchanging goods and services between needy people. 
 * Trade is important in a way that it increases competition and decreases overall world wise cost of a product. 
 
